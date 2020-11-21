@@ -1,0 +1,8 @@
+Flask>=1.0.2
+Flask-Cors>=3.0.3
+Flask-RESTful>=0.3.6
+Flask-HTTPAuth>=4.1.0
+pytest-cov>=2.10.0
+pytest
+pylint
+coverage
